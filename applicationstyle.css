@@ -3,4 +3,11 @@
 body {
   background-color: pink;
   font-family: 'Noto Serif Display', serif;
+  margin: 0px;
+  text-align: center;
+}
+
+.container-fluid {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
